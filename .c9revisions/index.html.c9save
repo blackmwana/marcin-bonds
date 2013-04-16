@@ -115,3 +115,5 @@
 {"ts":1366123741810,"patch":[[{"diffs":[[0,"ootstrap"],[1,".min."],[0,"\"\r\n    <"]],"start1":674,"start2":674,"length1":16,"length2":21}]],"length":5564,"saved":false}
 {"ts":1366123743647,"patch":[[{"diffs":[[0,"rap.min."],[1,"js"],[0,"\"\r\n    <"]],"start1":679,"start2":679,"length1":16,"length2":18}]],"length":5566,"saved":false}
 {"ts":1366123749433,"patch":[[{"diffs":[[0,".min.js\""],[1,"></script>"],[0,"\r\n    <s"]],"start1":682,"start2":682,"length1":16,"length2":26}]],"length":5576,"saved":false}
+{"ts":1366123841423,"patch":[[{"diffs":[[0,">Hello, "],[-1,"wo"],[1,"Karthik"],[0,"rld!</h1"]],"start1":3642,"start2":3642,"length1":18,"length2":23}]],"length":5581,"saved":false}
+{"ts":1366123842924,"patch":[[{"diffs":[[0,"thik"],[-1,"rld"],[0,"!</h"]],"start1":3653,"start2":3653,"length1":11,"length2":8}]],"length":5578,"saved":false}
