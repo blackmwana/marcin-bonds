@@ -1,0 +1,15 @@
+{"ts":1366122718214,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":true,"ts":1366122720047,"patch":[[{"diffs":[[1,"$"]],"start1":0,"start2":0,"length1":0,"length2":1}]],"length":1,"saved":false}
+{"ts":1366122721169,"patch":[[{"diffs":[[0,"$"],[1,"()"]],"start1":0,"start2":0,"length1":1,"length2":3}]],"length":3,"saved":false}
+{"ts":1366122724684,"patch":[[{"diffs":[[0,"$("],[1,"document"],[0,")"]],"start1":0,"start2":0,"length1":3,"length2":11}]],"length":11,"saved":false}
+{"ts":1366122726281,"patch":[[{"diffs":[[0,"ocument)"],[1,"."]],"start1":3,"start2":3,"length1":8,"length2":9}]],"length":12,"saved":false}
+{"ts":1366122728027,"patch":[[{"diffs":[[0,"cument)."],[1,"r"]],"start1":4,"start2":4,"length1":8,"length2":9}]],"length":13,"saved":false}
+{"ts":1366122729636,"patch":[[{"diffs":[[0,"ument).r"],[1,"ead"]],"start1":5,"start2":5,"length1":8,"length2":11}]],"length":16,"saved":false}
+{"ts":1366122731630,"patch":[[{"diffs":[[0,"nt).read"],[1,"y"]],"start1":8,"start2":8,"length1":8,"length2":9}]],"length":17,"saved":false}
+{"ts":1366122732763,"patch":[[{"diffs":[[0,"t).ready"],[1,"()"]],"start1":9,"start2":9,"length1":8,"length2":10}]],"length":19,"saved":false}
+{"ts":1366122734389,"patch":[[{"diffs":[[0,".ready()"],[1,";"]],"start1":11,"start2":11,"length1":8,"length2":9}]],"length":20,"saved":false}
+{"ts":1366122739167,"patch":[[{"diffs":[[0,").ready("],[1,"function()"],[0,");"]],"start1":10,"start2":10,"length1":10,"length2":20}]],"length":30,"saved":false}
+{"ts":1366122742002,"patch":[[{"diffs":[[0,"nction()"],[1,"{}"],[0,");"]],"start1":20,"start2":20,"length1":10,"length2":12}]],"length":32,"saved":false}
+{"ts":1366122744135,"patch":[[{"diffs":[[0,"ction(){"],[1,"\n    "],[0,"});"]],"start1":21,"start2":21,"length1":11,"length2":16}]],"length":37,"saved":false}
+{"ts":1366122776116,"patch":[[{"diffs":[[0,"tion(){\n"],[1,"    \n"],[0,"    });"]],"start1":22,"start2":22,"length1":15,"length2":20}]],"length":42,"saved":false}
+{"ts":1366122819923,"patch":[[{"diffs":[[0,"(){\n    "],[1,"var BlogEntry = StackMob.Model.extend({ schemaName: 'blogentry' });\nvar entry = new BlogEntry({ message: 'hello world!' });\nentry.create();"],[0,"\n    });"]],"start1":26,"start2":26,"length1":16,"length2":155}]],"length":181,"saved":false}

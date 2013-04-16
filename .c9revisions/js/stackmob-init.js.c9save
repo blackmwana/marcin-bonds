@@ -1,0 +1,15 @@
+{"ts":1366122318041,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":true,"ts":1366122319640,"patch":[[{"diffs":[[1," StackMob.init({\r\n        \t\tappName: \"afrykashop\",\r\n\t\t\t\tclientSubdomain: \"blackmwanagmailcom\",\r\n\t\t\t\tpublicKey: \"be36fa6a-32de-41fe-873e-eca9169850d2\",\r\n\t\t\t\tapiVersion: 0\r\n\t\t\t});\r\n         //   alert(\"stackmob is ready baas\");"]],"start1":0,"start2":0,"length1":0,"length2":225}]],"length":225,"saved":false}
+{"ts":1366122325317,"patch":[[{"diffs":[[0,"e: \""],[-1,"afrykashop"],[1,"marcin"],[0,"\",\r\n"]],"start1":34,"start2":34,"length1":18,"length2":14}]],"length":221,"saved":false}
+{"ts":1366122326902,"patch":[[{"diffs":[[0," \"marcin"],[1,"_"],[0,"\",\r\n\t\t\t\t"]],"start1":36,"start2":36,"length1":16,"length2":17}]],"length":222,"saved":false}
+{"ts":1366122327963,"patch":[[{"diffs":[[0,"rcin"],[-1,"_"],[1,"-"],[0,"\",\r\n"]],"start1":40,"start2":40,"length1":9,"length2":9}]],"length":222,"saved":false}
+{"ts":1366122329257,"patch":[[{"diffs":[[0," \"marcin"],[-1,"-"],[1,"_"],[0,"\",\r\n\t\t\t\t"]],"start1":36,"start2":36,"length1":17,"length2":17}]],"length":222,"saved":false}
+{"ts":1366122331458,"patch":[[{"diffs":[[0,"\"marcin_"],[1,"bonds"],[0,"\",\r\n\t\t\t\t"]],"start1":37,"start2":37,"length1":16,"length2":21}]],"length":227,"saved":false}
+{"ts":1366122408754,"patch":[[{"diffs":[[0,"       \t"],[1,"//"],[0,"\tappName"]],"start1":19,"start2":19,"length1":16,"length2":18}]],"length":229,"saved":false}
+{"ts":1366122411406,"patch":[[{"diffs":[[0,"s\",\r\n\t\t\t"],[1,"//"],[0,"\tclientS"]],"start1":51,"start2":51,"length1":16,"length2":18}]],"length":231,"saved":false}
+{"ts":1366122420673,"patch":[[{"diffs":[[0,"    "],[-1,"//   alert(\"stackmob is ready baas\");"],[1," "]],"start1":190,"start2":190,"length1":41,"length2":5}]],"length":195,"saved":false}
+{"ts":1366122453177,"patch":[[{"diffs":[[0,"-873"],[-1,"e-eca9169850d2"],[0,"\",\r\n"]],"start1":136,"start2":136,"length1":22,"length2":8}]],"length":181,"saved":false}
+{"ts":1366122456620,"patch":[[{"diffs":[[0,": \"b"],[-1,"e36fa6a-32de-41fe-873"],[1,"7363036-3c3a-4d03-9087-7546f30a2bf5"],[0,"\",\r\n"]],"start1":115,"start2":115,"length1":29,"length2":43}]],"length":195,"saved":false}
+{"ts":1366122460213,"patch":[[{"diffs":[[0,": \"b"],[-1,"7363036-3c3a-4d03-9087-7546f30a2bf5"],[0,"\",\r\n"]],"start1":115,"start2":115,"length1":43,"length2":8}]],"length":160,"saved":false}
+{"ts":1366122462467,"patch":[[{"diffs":[[0,"cKey: \"b"],[1,"e"],[0,"\",\r\n\t\t\t\t"]],"start1":111,"start2":111,"length1":16,"length2":17}]],"length":161,"saved":false}
+{"ts":1366122463915,"patch":[[{"diffs":[[0,"cKey: \"b"],[-1,"e"],[1,"7363036-3c3a-4d03-9087-7546f30a2bf5"],[0,"\",\r\n\t\t\t\t"]],"start1":111,"start2":111,"length1":17,"length2":51}]],"length":195,"saved":false}
