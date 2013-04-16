@@ -92,3 +92,8 @@
 {"ts":1366122286836,"patch":[[{"diffs":[[0,"=\"js/sta"],[1,"ckmob-init"],[0,"\"\r\n    <"]],"start1":777,"start2":777,"length1":16,"length2":26}]],"length":5496,"saved":false}
 {"ts":1366122289648,"patch":[[{"diffs":[[0,"mob-init"],[1,".js"],[0,"\"\r\n    <"]],"start1":787,"start2":787,"length1":16,"length2":19}]],"length":5499,"saved":false}
 {"ts":1366122301777,"patch":[[{"diffs":[[0,"init.js\""],[1,"></script>"],[0,"\r\n    <s"]],"start1":791,"start2":791,"length1":16,"length2":26}]],"length":5509,"saved":false}
+{"ts":1366123462643,"patch":[[{"diffs":[[0,"h icons "],[-1,"-->"],[0,"\r\n    <l"]],"start1":1096,"start2":1096,"length1":19,"length2":16}]],"length":5506,"saved":false}
+{"ts":1366123466893,"patch":[[{"diffs":[[0,"avicon.png\">"],[1,"-->"],[0,"\r\n  </head>\r"]],"start1":1670,"start2":1670,"length1":24,"length2":27}]],"length":5509,"saved":false}
+{"ts":1366123486707,"patch":[[{"diffs":[[0,">-->\r\n  "],[-1,"</head>"],[1," "],[0,"\r\n\r\n  <b"]],"start1":1681,"start2":1681,"length1":23,"length2":17}]],"length":5503,"saved":false}
+{"ts":1366123491214,"patch":[[{"diffs":[[0,"ead>\r\n  "],[-1,"<body>"],[1," "],[0,"\r\n      "]],"start1":881,"start2":881,"length1":22,"length2":17}]],"length":5498,"saved":false}
+{"ts":1366123493530,"patch":[[{"diffs":[[0,"\r\n  "],[-1,"</head>"],[1," "],[0,"\r\n  "]],"start1":874,"start2":874,"length1":15,"length2":9}]],"length":5492,"saved":false}
