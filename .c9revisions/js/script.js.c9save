@@ -33,3 +33,5 @@
 {"ts":1366228403959,"patch":[[{"diffs":[[0," alert('"],[1,"wow"],[0,"')\n    }"]],"start1":67,"start2":67,"length1":16,"length2":19}]],"length":88,"saved":false}
 {"ts":1366228406082,"patch":[[{"diffs":[[0,"t('wow')"],[1,";"],[0,"\n    });"]],"start1":72,"start2":72,"length1":16,"length2":17}]],"length":89,"saved":false}
 {"ts":1366229105268,"patch":[[{"diffs":[[0,"(){\n    "],[1,"//"],[0,"var user"]],"start1":26,"start2":26,"length1":16,"length2":18}]],"length":91,"saved":false}
+{"ts":1366229160035,"patch":[[{"diffs":[[0,"    "],[-1,"alert('wow');"],[1," "],[0,"\n   "]],"start1":66,"start2":66,"length1":21,"length2":9}]],"length":79,"saved":false}
+{"ts":1366229161596,"patch":[[{"diffs":[[0," ; \n"],[-1,"     \n"],[0,"    "]],"start1":62,"start2":62,"length1":14,"length2":8}]],"length":73,"saved":false}
