@@ -208,3 +208,4 @@
 {"ts":1366220701379,"patch":[[{"diffs":[[0,"tainer m"],[1,"ain"],[0,"\">\n     "]],"start1":1952,"start2":1952,"length1":16,"length2":19}]],"length":9134,"saved":false}
 {"ts":1366220799967,"patch":[[{"diffs":[[0,"iner"],[-1," main"],[0,"\">\n "]],"start1":1954,"start2":1954,"length1":13,"length2":8}]],"length":9129,"saved":false}
 {"ts":1366220808740,"patch":[[{"diffs":[[0,"class=\"container"],[1," main"],[0,"\">\n             "]],"start1":4121,"start2":4121,"length1":32,"length2":37}]],"length":9134,"saved":false}
+{"ts":1366220913097,"patch":[[{"diffs":[[0,"erse"],[-1," navbar-fixed-top"],[0,"\">\n "]],"start1":1850,"start2":1850,"length1":25,"length2":8}]],"length":9117,"saved":false}
