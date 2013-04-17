@@ -5,7 +5,7 @@ body {
 .navbar-inner {
     height: 6em;
     padding-top: 3em;
-    background-image: none;
+    background-image: none !important;
     background-color: aliceblue !important;
     border: none;
 }
