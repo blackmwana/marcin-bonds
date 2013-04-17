@@ -6,7 +6,7 @@ body {
     height: 6em;
     padding-top: 3em;
     background-image: none;
-    background-color: aliceblue !importa;
+    background-color: aliceblue !important;
     border: none;
 }
 /*nav
