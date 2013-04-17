@@ -5,6 +5,7 @@
 
 echo "The current page name is ".curPageName();
 ?>
+<?php curPageName();?>
     <div class="navbar navbar-inverse">
                 <div class="navbar-inner">
                     <div class="container">
