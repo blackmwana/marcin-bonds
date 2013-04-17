@@ -12,3 +12,11 @@
 {"ts":1366226236517,"patch":[[{"diffs":[[-1,"<?php"],[0,"\n   "]],"start1":0,"start2":0,"length1":9,"length2":4}]],"length":2273,"saved":false}
 {"ts":1366226239694,"patch":[[{"diffs":[[-1,"\n"],[0,"    <div cla"]],"start1":0,"start2":0,"length1":13,"length2":12}]],"length":2272,"saved":false}
 {"ts":1366226245159,"patch":[[{"diffs":[[0,"div>"],[-1,"\n?>"]],"start1":2265,"start2":2265,"length1":7,"length2":4}]],"length":2269,"saved":false}
+{"contributors":[],"silentsave":true,"ts":1366228120543,"patch":[[{"diffs":[[1,"    \n"],[0,"    <div class=\"navbar navba"]],"start1":0,"start2":0,"length1":28,"length2":33}]],"length":2274,"saved":false}
+{"ts":1366228122685,"patch":[[{"diffs":[[0,"    "],[1,"<"],[0,"\n    <di"]],"start1":0,"start2":0,"length1":12,"length2":13}]],"length":2275,"saved":false}
+{"ts":1366228124307,"patch":[[{"diffs":[[0,"    "],[-1,"<"],[0,"\n    <di"]],"start1":0,"start2":0,"length1":13,"length2":12}]],"length":2274,"saved":false}
+{"ts":1366228156152,"patch":[[{"diffs":[[0,"    "],[1,"<?php\nfunction curPageName() {\n return substr($_SERVER[\"SCRIPT_NAME\"],strrpos($_SERVER[\"SCRIPT_NAME\"],\"/\")+1);\n}\n\necho \"The current page name is \".curPageName();\n?>"],[0,"\n    <di"]],"start1":0,"start2":0,"length1":12,"length2":176}]],"length":2438,"saved":false}
+{"ts":1366228164966,"patch":[[{"diffs":[[0,"  <?php\n"],[1,"            "],[0,"function"]],"start1":2,"start2":2,"length1":16,"length2":28}]],"length":2450,"saved":false}
+{"ts":1366228167401,"patch":[[{"diffs":[[0,"        "],[-1,"    "],[0,"function"]],"start1":10,"start2":10,"length1":20,"length2":16}]],"length":2446,"saved":false}
+{"ts":1366228170884,"patch":[[{"diffs":[[0,"ame() {\n"],[1,"           "],[0," return "]],"start1":35,"start2":35,"length1":16,"length2":27}]],"length":2457,"saved":false}
+{"ts":1366228172220,"patch":[[{"diffs":[[0,"/\")+1);\n"],[1,"        "],[0,"}\n\necho "]],"start1":126,"start2":126,"length1":16,"length2":24}]],"length":2465,"saved":false}
