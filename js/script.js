@@ -1,3 +1,4 @@
 $(document).ready(function(){
-    var user = StackMob.ser() ;
+    var user = StackMob.User() ; 
+    
     });

@@ -24,3 +24,5 @@
 {"ts":1366124326608,"patch":[[{"diffs":[[0,"ser("],[-1,"{}"],[0,") \n "]],"start1":55,"start2":55,"length1":10,"length2":8}]],"length":69,"saved":false}
 {"ts":1366124328345,"patch":[[{"diffs":[[0,".user() "],[1,";"],[0,"\n    });"]],"start1":53,"start2":53,"length1":16,"length2":17}]],"length":70,"saved":false}
 {"ts":1366124355401,"patch":[[{"diffs":[[0,"tackMob."],[-1,"u"],[1,"U"],[0,"ser() ;\n"]],"start1":46,"start2":46,"length1":17,"length2":17}]],"length":70,"saved":false}
+{"ts":1366225004554,"patch":[[{"diffs":[[0,"ser() ;\n"],[1,"    \n"],[0,"    });"]],"start1":55,"start2":55,"length1":15,"length2":20}]],"length":75,"saved":false}
+{"ts":1366226463972,"patch":[[{"diffs":[[0,"User() ;"],[1," "],[0,"\n    \n  "]],"start1":54,"start2":54,"length1":16,"length2":17}]],"length":76,"saved":false}
