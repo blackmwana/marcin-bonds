@@ -1,6 +1,9 @@
 body {
-    padding-top: 60px;
+    /*padding-top: 60px;*/
     padding-bottom: 40px;
+}
+.navbar{
+    margin-top :0;
 }
 .navbar-inner {
     height: 6em;
@@ -10,7 +13,7 @@ body {
     border: none;
 }
 .main{
-    margin-top:10em;
+    margin-top:8em;
 }
 /*nav
       background-color: #83b5c1 !important;
