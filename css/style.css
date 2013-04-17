@@ -9,6 +9,9 @@ body {
     background-color: aliceblue !important;
     border: none;
 }
+.main{
+    margin-top:10em;
+}
 /*nav
       background-color: #83b5c1 !important;
       padding-top:3em
